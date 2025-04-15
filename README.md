@@ -61,8 +61,8 @@
         <p>A productivity app with to-do lists, priorities, and user auth.</p>
         <p><b>Tech:</b> Django, PostgreSQL, Tailwind CSS</p>
         <p>
-          <a href="https://github.com/meaow-stack/task-manager">🔗 View Repo</a> | 
-          <a href="#">🌐 Live Demo</a>
+          <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" /> 
+          <a href="https://github.com/meaow-stack/task-manager">🔗 View Repo</a>
         </p>
       </td>
       <td width="33%" align="center">
@@ -89,11 +89,18 @@
         <p>Responsive personal site showcasing my projects.</p>
         <p><b>Tech:</b> React, Tailwind CSS</p>
         <p>
-          <a href="https://github.com/meaow-stack/portfolio">🔗 View Repo</a> | 
-          <a href="#">🌐 Live Demo</a>
+          <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" /> 
+          <a href="https://github.com/meaow-stack/portfolio">🔗 View Repo</a>
         </p>
       </td>
       <td width="33%" align="center">
+        <h3>📝 Blog Page</h3>
+        <p>A Next.js-powered blog to share tech insights and cat memes.</p>
+        <p><b>Tech:</b> Next.js, Tailwind CSS, MDX</p>
+        <p>
+          <img src="https://img.shields.io/badge/Status-Coming%20Soon-blue" /> 
+          <a href="#">🔗 Coming Soon</a>
+        </p>
       </td>
     </tr>
   </table>
