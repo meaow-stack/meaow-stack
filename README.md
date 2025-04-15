@@ -111,8 +111,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meaow-stack&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaow-stack&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meaow-stack&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=94e2d5&title_color=f9e2af&count_private=true&include_all_commits=true" alt="Meaow's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaow-stack&layout=donut&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=94e2d5&title_color=f9e2af&langs_count=10&hide=c,c++,cmake,makefile&exclude_repo=meaow-stack/c-projects" alt="Meaow's Top Languages" />
 </p>
 
 ---
