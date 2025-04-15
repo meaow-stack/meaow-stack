@@ -19,7 +19,7 @@
 - 🎓 Final-year **Electronics & Communication Engineering** student
 - 💻 **Full Stack Developer** passionate about clean code and creative UI
 - 🌱 Learning **Next.js**, **NLP**, and **Kubernetes**
-- 🤖 Built an **ML crop prediction model** and exploring **BERT** for healthcare apps
+- 🤖 Built an **ML crop prediction model** and exploring **BERT**/**MED7** for healthcare apps
 - 🛒 Created a **fully functional e-commerce platform** with Django
 - 🐾 Fun fact: I say “meaow” too much, and tech should be as fun as a cat meme 😺
 - 📫 Open to internships, freelance projects, or a quick meaow—reach out!
@@ -77,7 +77,7 @@
     <tr>
       <td width="33%" align="center">
         <h3>💬 AI Symptom Checker</h3>
-        <p>Healthcare app using BERT to analyze symptoms from text input.</p>
+        <p>Healthcare app using BERT/MED7 to analyze symptoms from text input.</p>
         <p><b>Tech:</b> BERT, TensorFlow, Python</p>
         <p>
           <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" /> 
