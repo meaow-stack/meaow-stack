@@ -50,7 +50,7 @@
       <td width="33%" align="center">
         <h3>🛍️ E-Commerce Website</h3>
         <p>A complete shopping platform with cart, checkout, and admin panel.</p>
-        <p><b>Tech:</b> Django, JavaScript, PostgreSQL</p>
+        <p><b>Tech:</b> Django, JavaScript, DB SQL LITEL</p>
         <p>
           <a href="https://github.com/meaow-stack/ecommerce">🔗 View Repo</a> | 
           <a href="#">🌐 Live Demo</a>
