@@ -81,7 +81,7 @@
         <p><b>Tech:</b> BERT, TensorFlow, Python</p>
         <p>
           <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" /> 
-          <a href="#">🔗 Coming Soon</a>
+          <a href="https://6000-firebase-studio-1749624433602.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev/">🔗 </a>
         </p>
       </td>
       <td width="33%" align="center">
