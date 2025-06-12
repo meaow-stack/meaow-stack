@@ -5,7 +5,7 @@
 <h1 align="center">🐾 Hey there! I'm @meaow-stack</h1>
 
 <p align="center">
-  <i>ECE Final Year | Full Stack Dev | AI & ML Enthusiast | Cat Meme Advocate 🐱</i>
+  <i>Final-Year ECE Student | Full Stack Developer | AI/ML Practitioner | Cat Meme Enthusiast 🐱</i>
 </p>
 
 <p align="center">
@@ -14,16 +14,17 @@
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-- 🎓 Final-year **Electronics & Communication Engineering** student
-- 💻 **Full Stack Developer** who loves clean architecture and sleek UI/UX
-- 🌐 Exploring **Next.js**, **Kubernetes**, and deep-diving into **TypeScript**
-- 🤖 Built an **ML-powered crop prediction model** and working on **AI-driven health tools**
-- 🛒 Developed a complete **e-commerce platform** using Django
-- 🧠 Built a **symptom checker** with **BERT/MED7**, chatbot, and intelligent predictions
-- 🎨 Passionate about learning, building, and making tech fun—like a cat meme 😸
-- 📬 Open for **internships, freelance gigs**, or just a fun tech chat. Let’s connect!
+- 🎓 Final-year student of **Electronics & Communication Engineering**
+- 💡 Passionate **Full Stack Developer** with a strong sense for clean architecture and smooth UI/UX
+- ⚙️ Working with technologies like **Next.js**, **Django**, **Firebase**, and **Kubernetes**
+- 🤖 Developed an **AI-based Symptom Checker** using **BERT/MED7**, integrated with a chatbot, hosted on **Firebase Studio**
+- 🌾 Built an **ML-powered Crop Prediction System** using real-time soil and weather data
+- 🛒 Created a fully functional **E-commerce platform** using **Django** from scratch
+- ✍️ Writing and sharing tech blogs, tutorials, and memes on an upcoming blog platform
+- 🚀 Always eager to build real-world solutions, contribute to open-source, and collaborate on innovative ideas
+- 📬 Open to **internships**, **freelance opportunities**, and **collaborations**
 
 ---
 
@@ -34,15 +35,15 @@
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML/AI-0c8a30?logo=scikit-learn&logoColor=white" />
 </p>
 
 ---
@@ -54,57 +55,56 @@
     <tr>
       <td width="33%" align="center">
         <h3>🛍️ E-Commerce Platform</h3>
-        <p>Robust online store with cart, checkout, and admin dashboard.</p>
-        <p><b>Tech:</b> Django, JavaScript, SQLite</p>
+        <p>Comprehensive shopping system with cart, checkout, and admin panel.</p>
+        <p><b>Stack:</b> Django, JavaScript, SQLite</p>
         <p>
-          <a href="https://github.com/meaow-stack/ecommerce">🔗 View Repo</a> | 
+          <a href="https://github.com/meaow-stack/ecommerce">🔗 GitHub Repo</a> |
           <a href="#">🌐 Live Demo</a>
         </p>
       </td>
       <td width="33%" align="center">
         <h3>🧠 AI Symptom Checker</h3>
-        <p>Analyze health symptoms using BERT/MED7 & NLP with a chatbot.</p>
-        <p><b>Tech:</b> BERT, TensorFlow, Python</p>
+        <p>Chatbot-assisted health symptom analysis using BERT & MED7 NLP.</p>
+        <p><b>Stack:</b> Python, TensorFlow, Firebase Studio</p>
         <p>
-          <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" /> 
-          <a href="https://6000-firebase-studio-1749624433602.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev/">🔗 Live</a>
+          <img src="https://img.shields.io/badge/Status-Deployed-green" />
+          <a href="https://6000-firebase-studio-1749624433602.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev/">🔗 Live App</a>
         </p>
       </td>
       <td width="33%" align="center">
-        <h3>🌾 Crop Prediction (ML)</h3>
-        <p>Predict crop yield using weather and soil data inputs.</p>
-        <p><b>Tech:</b> Python, Scikit-learn, Pandas</p>
+        <h3>🌾 ML Crop Predictor</h3>
+        <p>Predict optimal crops using soil and climate parameters.</p>
+        <p><b>Stack:</b> Python, Scikit-learn, Pandas</p>
         <p>
-          <a href="https://github.com/meaow-stack/ml-agriculture">🔗 View Repo</a>
+          <a href="https://github.com/meaow-stack/ml-agriculture">🔗 GitHub Repo</a>
         </p>
       </td>
     </tr>
     <tr>
       <td width="33%" align="center">
-        <h3>📝 Blog Page</h3>
-        <p>Developer blog to share insights, tutorials, and memes.</p>
-        <p><b>Tech:</b> Next.js, MDX, Tailwind CSS</p>
+        <h3>📝 Dev Blog (Coming Soon)</h3>
+        <p>Write-ups on tech, tutorials, and developer life.</p>
+        <p><b>Stack:</b> Next.js, Tailwind CSS, MDX</p>
         <p>
           <img src="https://img.shields.io/badge/Status-Coming%20Soon-blue" />
-          <a href="#">🔗 Coming Soon</a>
         </p>
       </td>
       <td width="33%" align="center">
         <h3>📋 Task Manager</h3>
-        <p>Manage to-dos, priorities, and progress efficiently.</p>
-        <p><b>Tech:</b> Django, PostgreSQL, Tailwind CSS</p>
+        <p>Organize and prioritize daily goals with smart filtering.</p>
+        <p><b>Stack:</b> Django, PostgreSQL, Tailwind CSS</p>
         <p>
           <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
-          <a href="https://github.com/meaow-stack/task-manager">🔗 View Repo</a>
+          <a href="https://github.com/meaow-stack/task-manager">🔗 GitHub Repo</a>
         </p>
       </td>
       <td width="33%" align="center">
-        <h3>🎨 Portfolio Website</h3>
-        <p>My personal portfolio highlighting projects and skills.</p>
-        <p><b>Tech:</b> React, Tailwind CSS</p>
+        <h3>🎨 Portfolio Site</h3>
+        <p>Interactive personal portfolio showcasing skills & works.</p>
+        <p><b>Stack:</b> React, Tailwind CSS</p>
         <p>
           <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
-          <a href="https://github.com/meaow-stack/portfolio">🔗 View Repo</a>
+          <a href="https://github.com/meaow-stack/portfolio">🔗 GitHub Repo</a>
         </p>
       </td>
     </tr>
@@ -113,18 +113,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meaow-stack&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=94e2d5&title_color=f9e2af&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=meaow-stack&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaow-stack&layout=donut&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=94e2d5&title_color=f9e2af&langs_count=10&hide=cmake,makefile&exclude_repo=meaow-stack/c-projects" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaow-stack&layout=donut&theme=catppuccin_mocha&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
@@ -136,5 +136,5 @@
 ---
 
 <p align="center">
-  <i>Let’s create something innovative, impactful, and absolutely... pawsome! ⭐ Drop a star, raise an issue, or just say meaow 😺</i>
+  <i>Let’s build something innovative, impactful, and pawsitively awesome! ⭐ Drop a star, raise an issue, or just say meaow 😺</i>
 </p>
