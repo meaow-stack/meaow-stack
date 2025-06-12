@@ -21,7 +21,7 @@
 - 🌱 Learning **Next.js**, **NLP**, and **Kubernetes**
 - 🤖 Built an **ML crop prediction model** and exploring **BERT**/**MED7** for healthcare apps
 - 🛒 Created a **fully functional e-commerce platform** with Django
-- Createa a **Health checkup app**
+- Created a **Health check-up/Checker that has chatbot and precdicts about health app**
 - 🐾 Fun fact: I say “meaow” too much, and tech should be as fun as a cat meme 😺
 - 📫 Open to internships, freelance projects, or a quick meaow—reach out!
 
