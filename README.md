@@ -2,28 +2,24 @@
   <img src="https://github.com/meaow-stack/meaow-stack/assets/cat-coding.gif" alt="Meaow Coding Banner" width="600"/>
 </p>
 
-<h1 align="center">🐾 Hey there! I'm @meaow-stack</h1>
+<h1 align="center">🐾 Hi there, I'm @meaow-stack</h1>
 
 <p align="center">
-  <i>ECE Final Year | Full Stack Dev | AI & ML Enthusiast | Cat Meme Advocate 🐱</i>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Cat coding">
+  <i>Final Year ECE Student | Full Stack & AI Developer | Clean Code Enthusiast</i>
 </p>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-- 🎓 Final-year **Electronics & Communication Engineering** student
-- 💻 **Full Stack Developer** who loves clean architecture and sleek UI/UX
-- 🌐 Exploring **Next.js**, **Kubernetes**, and deep-diving into **TypeScript**
-- 🤖 Built an **ML-powered crop prediction model** and working on **AI-driven health tools**
-- 🛒 Developed a complete **e-commerce platform** using Django
-- 🧠 Built a **symptom checker** with **BERT/MED7**, chatbot, and intelligent predictions
-- 🎨 Passionate about learning, building, and making tech fun—like a cat meme 😸
-- 📬 Open for **internships, freelance gigs**, or just a fun tech chat. Let’s connect!
+- 🎓 Final-year student of **Electronics & Communication Engineering**
+- 💻 Passionate **Full Stack Developer** who values clean, scalable architecture and intuitive design
+- 🧠 Interested in **AI/ML**, currently exploring **BERT**, **MED7**, and **healthcare NLP**
+- 🛒 Built a complete **e-commerce platform** using Django
+- 🤖 Created a **health symptom checker** with chatbot and ML integration
+- 🌱 Currently diving into **TypeScript**, **Next.js**, and **Kubernetes**
+- 🐱 Fun fact: I say “meaow” too often and believe tech should be as fun as cat memes 😺
+- 💼 Open to **internships**, **freelance opportunities**, or collaborative tech ventures
 
 ---
 
@@ -31,83 +27,79 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?logo=scikit-learn&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <h3>🛍️ E-Commerce Platform</h3>
-        <p>Robust online store with cart, checkout, and admin dashboard.</p>
-        <p><b>Tech:</b> Django, JavaScript, SQLite</p>
-        <p>
-          <a href="https://github.com/meaow-stack/ecommerce">🔗 View Repo</a> | 
-          <a href="#">🌐 Live Demo</a>
-        </p>
-      </td>
-      <td width="33%" align="center">
-        <h3>🧠 AI Symptom Checker</h3>
-        <p>Analyze health symptoms using BERT/MED7 & NLP with a chatbot.</p>
-        <p><b>Tech:</b> BERT, TensorFlow, Python</p>
-        <p>
-          <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" /> 
-          <a href="https://6000-firebase-studio-1749624433602.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev/">🔗 Live</a>
-        </p>
-      </td>
-      <td width="33%" align="center">
-        <h3>🌾 Crop Prediction (ML)</h3>
-        <p>Predict crop yield using weather and soil data inputs.</p>
-        <p><b>Tech:</b> Python, Scikit-learn, Pandas</p>
-        <p>
-          <a href="https://github.com/meaow-stack/ml-agriculture">🔗 View Repo</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="33%" align="center">
-        <h3>📝 Blog Page</h3>
-        <p>Developer blog to share insights, tutorials, and memes.</p>
-        <p><b>Tech:</b> Next.js, MDX, Tailwind CSS</p>
-        <p>
-          <img src="https://img.shields.io/badge/Status-Coming%20Soon-blue" />
-          <a href="#">🔗 Coming Soon</a>
-        </p>
-      </td>
-      <td width="33%" align="center">
-        <h3>📋 Task Manager</h3>
-        <p>Manage to-dos, priorities, and progress efficiently.</p>
-        <p><b>Tech:</b> Django, PostgreSQL, Tailwind CSS</p>
-        <p>
-          <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
-          <a href="https://github.com/meaow-stack/task-manager">🔗 View Repo</a>
-        </p>
-      </td>
-      <td width="33%" align="center">
-        <h3>🎨 Portfolio Website</h3>
-        <p>My personal portfolio highlighting projects and skills.</p>
-        <p><b>Tech:</b> React, Tailwind CSS</p>
-        <p>
-          <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
-          <a href="https://github.com/meaow-stack/portfolio">🔗 View Repo</a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <td width="33%">
+      <h3>🛍️ E-Commerce Website</h3>
+      <p>Complete shopping platform with user authentication, cart, checkout, and admin panel.</p>
+      <p><b>Tech:</b> Django, JavaScript, SQLite</p>
+      <p>
+        <a href="https://github.com/meaow-stack/ecommerce">🔗 View Repo</a>
+      </p>
+    </td>
+    <td width="33%">
+      <h3>🤖 AI Symptom Checker</h3>
+      <p>Healthcare web app using NLP (BERT/MED7) to analyze user symptoms.</p>
+      <p><b>Tech:</b> BERT, TensorFlow, Python</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
+        <a href="https://6000-firebase-studio-1749624433602.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev/">🔗 Live</a>
+      </p>
+    </td>
+    <td width="33%">
+      <h3>🌾 ML for Agriculture</h3>
+      <p>Machine learning model to predict crop yields based on soil and climate data.</p>
+      <p><b>Tech:</b> Python, Scikit-learn, Pandas</p>
+      <p>
+        <a href="https://github.com/meaow-stack/ml-agriculture">🔗 View Repo</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <h3>📋 Task Manager</h3>
+      <p>Productivity app for task management with user authentication and UI components.</p>
+      <p><b>Tech:</b> Django, Tailwind CSS, PostgreSQL</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
+        <a href="https://github.com/meaow-stack/task-manager">🔗 View Repo</a>
+      </p>
+    </td>
+    <td width="33%">
+      <h3>🎨 Portfolio Website</h3>
+      <p>Responsive personal portfolio highlighting projects, blogs, and contact info.</p>
+      <p><b>Tech:</b> React, Tailwind CSS</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
+        <a href="https://github.com/meaow-stack/portfolio">🔗 View Repo</a>
+      </p>
+    </td>
+    <td width="33%">
+      <h3>📝 Developer Blog</h3>
+      <p>Tech blog to share development tutorials, project writeups, and tips.</p>
+      <p><b>Tech:</b> Next.js, Tailwind CSS, MDX</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Coming%20Soon-blue" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -116,13 +108,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=meaow-stack&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=94e2d5&title_color=f9e2af&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaow-stack&layout=donut&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=94e2d5&title_color=f9e2af&langs_count=10&hide=c,c++,cmake,makefile&exclude_repo=meaow-stack/c-projects" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaow-stack&layout=donut&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=94e2d5&title_color=f9e2af&langs_count=10&hide=cmake,makefile&exclude_repo=meaow-stack/c-projects" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
@@ -134,5 +127,5 @@
 ---
 
 <p align="center">
-  <i>Let’s create something innovative, impactful, and absolutely... pawsome! ⭐ Drop a star, raise an issue, or just say meaow 😺</i>
+  <i>Let’s build something innovative and impactful together — drop a star ⭐, raise an issue 🐞, or just say meaow 😸</i>
 </p>
