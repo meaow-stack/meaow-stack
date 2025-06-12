@@ -2,10 +2,10 @@
   <img src="https://github.com/meaow-stack/meaow-stack/assets/cat-coding.gif" alt="Meaow Coding Banner" width="600"/>
 </p>
 
-<h1 align="center">🐾 Meaow! I'm @meaow-stack</h1>
+<h1 align="center">🐾 Hey there! I'm @meaow-stack</h1>
 
 <p align="center">
-  <i>ECE Student | Full Stack Developer | AI Explorer | Builder of pawsome web apps</i>
+  <i>ECE Final Year | Full Stack Dev | AI & ML Enthusiast | Cat Meme Advocate 🐱</i>
 </p>
 
 <p align="center">
@@ -14,26 +14,28 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
 - 🎓 Final-year **Electronics & Communication Engineering** student
-- 💻 **Full Stack Developer** passionate about clean code and creative UI
-- 🌱 Learning **Next.js**, **NLP**, and **Kubernetes**
-- 🤖 Built an **ML crop prediction model** and exploring **BERT**/**MED7** for healthcare apps
-- 🛒 Created a **fully functional e-commerce platform** with Django
-- Created a **Health check-up/Checker that has chatbot and precdicts about health app**
-- 🐾 Fun fact: I say “meaow” too much, and tech should be as fun as a cat meme 😺
-- 📫 Open to internships, freelance projects, or a quick meaow—reach out!
+- 💻 **Full Stack Developer** who loves clean architecture and sleek UI/UX
+- 🌐 Exploring **Next.js**, **Kubernetes**, and deep-diving into **TypeScript**
+- 🤖 Built an **ML-powered crop prediction model** and working on **AI-driven health tools**
+- 🛒 Developed a complete **e-commerce platform** using Django
+- 🧠 Built a **symptom checker** with **BERT/MED7**, chatbot, and intelligent predictions
+- 🎨 Passionate about learning, building, and making tech fun—like a cat meme 😸
+- 📬 Open for **internships, freelance gigs**, or just a fun tech chat. Let’s connect!
 
 ---
 
-## 🔧 Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
@@ -49,26 +51,26 @@
   <table>
     <tr>
       <td width="33%" align="center">
-        <h3>🛍️ E-Commerce Website</h3>
-        <p>A complete shopping platform with cart, checkout, and admin panel.</p>
-        <p><b>Tech:</b> Django, JavaScript, DB SQL LITEL</p>
+        <h3>🛍️ E-Commerce Platform</h3>
+        <p>Robust online store with cart, checkout, and admin dashboard.</p>
+        <p><b>Tech:</b> Django, JavaScript, SQLite</p>
         <p>
           <a href="https://github.com/meaow-stack/ecommerce">🔗 View Repo</a> | 
           <a href="#">🌐 Live Demo</a>
         </p>
       </td>
       <td width="33%" align="center">
-        <h3>🎯 Task Manager App</h3>
-        <p>A productivity app with to-do lists, priorities, and user auth.</p>
-        <p><b>Tech:</b> Django, PostgreSQL, Tailwind CSS</p>
+        <h3>🧠 AI Symptom Checker</h3>
+        <p>Analyze health symptoms using BERT/MED7 & NLP with a chatbot.</p>
+        <p><b>Tech:</b> BERT, TensorFlow, Python</p>
         <p>
           <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" /> 
-          <a href="https://github.com/meaow-stack/task-manager">🔗 View Repo</a>
+          <a href="https://6000-firebase-studio-1749624433602.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev/">🔗 Live</a>
         </p>
       </td>
       <td width="33%" align="center">
-        <h3>🌱 ML in Agriculture</h3>
-        <p>ML model for crop yield prediction using soil and weather data.</p>
+        <h3>🌾 Crop Prediction (ML)</h3>
+        <p>Predict crop yield using weather and soil data inputs.</p>
         <p><b>Tech:</b> Python, Scikit-learn, Pandas</p>
         <p>
           <a href="https://github.com/meaow-stack/ml-agriculture">🔗 View Repo</a>
@@ -77,30 +79,30 @@
     </tr>
     <tr>
       <td width="33%" align="center">
-        <h3>💬 AI Symptom Checker</h3>
-        <p>Healthcare app using BERT/MED7 to analyze symptoms from text input.</p>
-        <p><b>Tech:</b> BERT, TensorFlow, Python</p>
+        <h3>📝 Blog Page</h3>
+        <p>Developer blog to share insights, tutorials, and memes.</p>
+        <p><b>Tech:</b> Next.js, MDX, Tailwind CSS</p>
         <p>
-          <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" /> 
-          <a href="https://6000-firebase-studio-1749624433602.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev/">🔗 </a>
+          <img src="https://img.shields.io/badge/Status-Coming%20Soon-blue" />
+          <a href="#">🔗 Coming Soon</a>
+        </p>
+      </td>
+      <td width="33%" align="center">
+        <h3>📋 Task Manager</h3>
+        <p>Manage to-dos, priorities, and progress efficiently.</p>
+        <p><b>Tech:</b> Django, PostgreSQL, Tailwind CSS</p>
+        <p>
+          <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
+          <a href="https://github.com/meaow-stack/task-manager">🔗 View Repo</a>
         </p>
       </td>
       <td width="33%" align="center">
         <h3>🎨 Portfolio Website</h3>
-        <p>Responsive personal site showcasing my projects.</p>
+        <p>My personal portfolio highlighting projects and skills.</p>
         <p><b>Tech:</b> React, Tailwind CSS</p>
         <p>
-          <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" /> 
+          <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
           <a href="https://github.com/meaow-stack/portfolio">🔗 View Repo</a>
-        </p>
-      </td>
-      <td width="33%" align="center">
-        <h3>📝 Blog Page</h3>
-        <p>A Next.js-powered blog to share tech insights and cat memes.</p>
-        <p><b>Tech:</b> Next.js, Tailwind CSS, MDX</p>
-        <p>
-          <img src="https://img.shields.io/badge/Status-Coming%20Soon-blue" /> 
-          <a href="#">🔗 Coming Soon</a>
         </p>
       </td>
     </tr>
@@ -112,15 +114,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meaow-stack&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=94e2d5&title_color=f9e2af&count_private=true&include_all_commits=true" alt="Meaow's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meaow-stack&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=94e2d5&title_color=f9e2af&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaow-stack&layout=donut&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=94e2d5&title_color=f9e2af&langs_count=10&hide=c,c++,cmake,makefile&exclude_repo=meaow-stack/c-projects" alt="Meaow's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaow-stack&layout=donut&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=94e2d5&title_color=f9e2af&langs_count=10&hide=c,c++,cmake,makefile&exclude_repo=meaow-stack/c-projects" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
@@ -132,5 +134,5 @@
 ---
 
 <p align="center">
-  <i>Let’s build innovative, impactful, and pawsome projects! Drop a star ⭐, raise an issue 🐞, or say meaow 😸</i>
+  <i>Let’s create something innovative, impactful, and absolutely... pawsome! ⭐ Drop a star, raise an issue, or just say meaow 😺</i>
 </p>
