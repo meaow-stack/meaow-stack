@@ -74,7 +74,7 @@
       <td width="33%" align="center">
         <h3>🌾 ML Crop Predictor</h3>
         <p>Predict optimal crops using soil and climate parameters.</p>
-        <p><b>Stack:</b> Python, Scikit-learn, Pandas</p>
+        <p><b>Stack:</b> Python, Scikit-learn, Pandas, streamlit</p>
         <p>
           <a href="https://github.com/meaow-stack/ml-agriculture">🔗 GitHub Repo</a>
         </p>
