@@ -92,7 +92,7 @@
       <td width="33%" align="center">
         <h3>📋 Task Manager</h3>
         <p>Organize and prioritize daily goals with smart filtering.</p>
-        <p><b>Stack:</b> Django, PostgreSQL, Tailwind CSS</p>
+        <p><b>Stack:</b> MERN STACK, Tailwind CSS</p>
         <p>
           <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
           <a href="https://github.com/meaow-stack/task-manager">🔗 GitHub Repo</a>
