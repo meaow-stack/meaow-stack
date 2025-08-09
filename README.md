@@ -2,10 +2,10 @@
   <img src="https://github.com/meaow-stack/meaow-stack/assets/cat-coding.gif" alt="Meaow Coding Banner" width="600"/>
 </p>
 
-<h1 align="center">🐾 Hey — I’m Sayantan Mukherjee</h1>
+<h1 align="center">🐾 Hey there! I'm @meaow-stack</h1>
 
 <p align="center">
-  <i>Final-Year ECE Student · Full Stack Developer · AI/ML Practitioner · Cat Meme Enthusiast</i>
+  <i>Final-Year ECE Student | Full Stack Developer | AI/ML Practitioner | Cat Meme Enthusiast 🐱</i>
 </p>
 
 <p align="center">
@@ -14,19 +14,21 @@
 
 ---
 
-## About me
+## 👨‍💻 About Me
 
-I’m **Sayantan Mukherjee**, a final-year Electronics & Communication Engineering student who builds practical, production-minded software. I enjoy designing clean architectures, shipping thoughtful UI/UX, and applying machine learning to real-world problems. I contribute to open-source, write technical posts, and love cat memes.
-
-**Highlights**
-- Built an **AI Symptom Checker** using BERT / MED7 with a conversational interface.
-- Developed a **ML-powered Crop Prediction** pipeline using real-time soil & weather inputs.
-- Implemented a full **Django E-commerce platform** end-to-end.
-- Rewrote classic gameplay with modern tooling in **Minisweeper** (PyQt5 + Pygame + AI).
+- 🎓 Final-year student of **Electronics & Communication Engineering**
+- 💡 Passionate **Full Stack Developer** with a strong sense for clean architecture and smooth UI/UX
+- ⚙️ Working with technologies like **Next.js**, **Django**, **Firebase**, and **Kubernetes**
+- 🤖 Developed an **AI-based Symptom Checker** using **BERT/MED7**, integrated with a chatbot, hosted on **Firebase Studio**
+- 🌾 Built an **ML-powered Crop Prediction System** using real-time soil and weather data
+- 🛒 Created a fully functional **E-commerce platform** using **Django** from scratch
+- ✍️ Writing and sharing tech blogs, tutorials, and memes on an upcoming blog platform
+- 🚀 Always eager to build real-world solutions, contribute to open-source, and collaborate on innovative ideas
+- 📬 Open to **internships**, **freelance opportunities**, and **collaborations**
 
 ---
 
-## Tech stack
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
@@ -40,44 +42,99 @@ I’m **Sayantan Mukherjee**, a final-year Electronics & Communication Engineeri
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML/AI-0c8a30?logo=scikit-learn&logoColor=white" />
 </p>
 
 ---
 
-## Featured projects
+## 🚀 Featured Projects
 
-| Project | Description | Stack | Link |
-|---|---:|---|---|
-| **🛍️ E-Commerce Platform** | End-to-end shopping app with cart, checkout, and admin panel. | Django, JavaScript, SQLite | 🔗 `https://github.com/meaow-stack/ecommerce` |
-| **🧠 AI Symptom Checker** | Chatbot-assisted medical symptom analysis using BERT and MED7. | Python, TensorFlow, Firebase Studio | 🔗 `https://github.com/meaow-stack/health_checker-` · 🔗 Live (deployed) |
-| **🌾 ML Crop Predictor** | Predicts optimal crops from soil & climate parameters. | Python, scikit-learn, Pandas, Streamlit | 🔗 `https://github.com/meaow-stack/Agriculture` |
-| **💣 Minisweeper** | Modern Minesweeper variant (PyQt5 + Pygame) with experimental AI to assist and auto-play. | Python, PyQt5, Pygame, ML | 🔗 `https://github.com/meaow-stack/Minisweeper` |
-| **🎨 Portfolio** | Interactive personal portfolio (in progress). | React, Tailwind CSS | 🔗 `https://github.com/meaow-stack/portfolio` |
-| **📝 Dev Blog** | Technical write-ups, tutorials and project walk-throughs (coming soon). | Next.js, Tailwind, MDX | Status: Coming Soon |
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <h3>🛍️ E-Commerce Platform</h3>
+        <p>Comprehensive shopping system with cart, checkout, and admin panel.</p>
+        <p><b>Stack:</b> Django, JavaScript, SQLite</p>
+        <p>
+          <a href="https://github.com/meaow-stack/ecommerce">🔗 GitHub Repo</a> |
+          <a href="#">🌐 Live Demo</a>
+        </p>
+      </td>
+      <td width="33%" align="center">
+        <h3>🧠 AI Symptom Checker</h3>
+        <p>Chatbot-assisted health symptom analysis using BERT & MED7 NLP.</p>
+        <p><b>Stack:</b> Python, TensorFlow, Firebase Studio</p>
+        <p>
+          <img src="https://img.shields.io/badge/Status-Deployed-green" />
+          <a href="https://6000-firebase-studio-1749624433602.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev/">🔗 Live App</a>
+        </p>
+      </td>
+      <td width="33%" align="center">
+        <h3>🌾 ML Crop Predictor</h3>
+        <p>Predict optimal crops using soil and climate parameters.</p>
+        <p><b>Stack:</b> Python, Scikit-learn, Pandas</p>
+        <p>
+          <a href="https://github.com/meaow-stack/ml-agriculture">🔗 GitHub Repo</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" align="center">
+        <h3>📝 Dev Blog (Coming Soon)</h3>
+        <p>Write-ups on tech, tutorials, and developer life.</p>
+        <p><b>Stack:</b> Next.js, Tailwind CSS, MDX</p>
+        <p>
+          <img src="https://img.shields.io/badge/Status-Coming%20Soon-blue" />
+        </p>
+      </td>
+      <td width="33%" align="center">
+        <h3>📋 Task Manager</h3>
+        <p>Organize and prioritize daily goals with smart filtering.</p>
+        <p><b>Stack:</b> Django, PostgreSQL, Tailwind CSS</p>
+        <p>
+          <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
+          <a href="https://github.com/meaow-stack/task-manager">🔗 GitHub Repo</a>
+        </p>
+      </td>
+      <td width="33%" align="center">
+        <h3>🎨 Portfolio Site</h3>
+        <p>Interactive personal portfolio showcasing skills & works.</p>
+        <p><b>Stack:</b> React, Tailwind CSS</p>
+        <p>
+          <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
+          <a href="https://github.com/meaow-stack/portfolio">🔗 GitHub Repo</a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## Minisweeper — overview
+## 📈 GitHub Stats
 
-Minisweeper is my modern remake of the classic Minesweeper. It combines a polished PyQt5 UI, Pygame rendering for gameboard visuals, and an experimental AI assistant that can either suggest moves or auto-play with explainable reasoning.
-
-**Key features**
-- Intuitive PyQt5 interface with keyboard + mouse controls
-- Pygame-based board rendering with smooth animations
-- AI assist mode: hints, suggested move, and optional auto-play
-- Adjustable difficulty & custom board sizes
-- Modular codebase for extending AI strategies and heuristics
-
-**Repository**
-- `https://github.com/meaow-stack/Minisweeper` — source, assets, and examples
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meaow-stack&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaow-stack&layout=donut&theme=catppuccin_mocha&hide_border=true" alt="Top Languages"/>
+</p>
 
 ---
 
-## Installation (project-agnostic)
+## 🌐 Let's Connect
 
-Below are general instructions that apply particularly to Python projects (Minisweeper, AI utilities, etc.).
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://meaow-stack.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5733?logo=vercel&logoColor=white" /></a>
+</p>
 
-1. Clone repository
-```bash
-git clone https://github.com/meaow-stack/Minisweeper.git
-cd Minisweeper
+---
+
+<p align="center">
+  <i>Let’s build something innovative, impactful, and pawsitively awesome! ⭐ Drop a star, raise an issue, or just say meaow 😺</i>
+</p>
