@@ -67,6 +67,7 @@
         <p>Chatbot-assisted health symptom analysis using BERT & MED7 NLP.</p>
         <p><b>Stack:</b> Python, TensorFlow, Firebase Studio</p>
         <p>
+          <a href="https://github.com/meaow-stack/health_checker-">🔗 GitHub Repo</a> |
           <img src="https://img.shields.io/badge/Status-Deployed-green" />
           <a href="https://6000-firebase-studio-1749624433602.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev/">🔗 Live App</a>
         </p>
@@ -76,7 +77,7 @@
         <p>Predict optimal crops using soil and climate parameters.</p>
         <p><b>Stack:</b> Python, Scikit-learn, Pandas, streamlit</p>
         <p>
-          <a href="https://github.com/meaow-stack/ml-agriculture">🔗 GitHub Repo</a>
+          <a href="https://github.com/meaow-stack/Agriculture">🔗 GitHub Repo</a>
         </p>
       </td>
     </tr>
