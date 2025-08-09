@@ -2,7 +2,7 @@
   <img src="https://github.com/meaow-stack/meaow-stack/assets/cat-coding.gif" alt="Meaow Coding Banner" width="600"/>
 </p>
 
-<h1 align="center">🐾 Hey there! I'm @meaow-stack</h1>
+<h1 align="center">🐾 Hey there! I'm Sayantan</h1>
 
 <p align="center">
   <i>Final-Year ECE Student | Full Stack Developer | AI/ML Practitioner | Cat Meme Enthusiast 🐱</i>
