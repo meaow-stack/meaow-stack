@@ -22,6 +22,7 @@
 - 🤖 Developed an **AI-based Symptom Checker** using **BERT/MED7**, integrated with a chatbot, hosted on **Firebase Studio**
 - 🌾 Built an **ML-powered Crop Prediction System** using real-time soil and weather data
 - 🛒 Created a fully functional **E-commerce platform** using **Django** from scratch
+- 🎮 Developing a modernized **Minesweeper Game** with custom AI logic
 - ✍️ Writing and sharing tech blogs, tutorials, and memes on an upcoming blog platform
 - 🚀 Always eager to build real-world solutions, contribute to open-source, and collaborate on innovative ideas
 - 📬 Open to **internships**, **freelance opportunities**, and **collaborations**
@@ -95,6 +96,7 @@
         <p>Modernized Minesweeper with custom logic & AI integration.</p>
         <p><b>Stack:</b> Python, PyQt5, Pygame</p>
         <p>
+          <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
           <a href="https://github.com/meaow-stack/Minisweeper">🔗 GitHub Repo</a>
         </p>
       </td>
@@ -120,6 +122,20 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaow-stack&layout=donut&theme=catppuccin_mocha&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 🏆 Top Contributors
+
+<p align="center">
+  
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+<!-- ALL-CONTRIBUTORS-LIST:START -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 </p>
 
 ---
