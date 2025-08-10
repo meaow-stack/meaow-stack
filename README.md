@@ -65,6 +65,7 @@
       <td width="33%" align="center">
         <h3>🧠 AI Symptom Checker</h3>
         <p>Chatbot-assisted health symptom analysis using BERT & MED7 NLP.</p>
+        <a href="https://github.com/meaow-stack/health_checker-">🔗 GitHub Repo</a> |
         <p><b>Stack:</b> Python, TensorFlow, Firebase Studio</p>
         <p>
           <img src="https://img.shields.io/badge/Status-Deployed-green" />
@@ -90,12 +91,12 @@
         </p>
       </td>
       <td width="33%" align="center">
-        <h3>📋 Task Manager</h3>
-        <p>Organize and prioritize daily goals with smart filtering.</p>
-        <p><b>Stack:</b> Django, PostgreSQL, Tailwind CSS</p>
+        <h3>💣 Minesweeper Game</h3>
+        <p>Modernized Minesweeper with custom logic & AI integration.</p>
+        <p><b>Stack:</b> Python, PyQt5, Pygame</p>
         <p>
           <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
-          <a href="https://github.com/meaow-stack/task-manager">🔗 GitHub Repo</a>
+          <a href="https://github.com/meaow-stack/Minisweeper">🔗 GitHub Repo</a>
         </p>
       </td>
       <td width="33%" align="center">
