@@ -95,7 +95,6 @@
         <p>Modernized Minesweeper with custom logic & AI integration.</p>
         <p><b>Stack:</b> Python, PyQt5, Pygame</p>
         <p>
-          <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
           <a href="https://github.com/meaow-stack/Minisweeper">🔗 GitHub Repo</a>
         </p>
       </td>
