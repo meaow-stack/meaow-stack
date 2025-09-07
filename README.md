@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://github.com/meaow-stack/meaow-stack/assets/cat-coding.gif" alt="Meaow Coding Banner" width="600"/>
+  
 </p>
 
 <h1 align="center">🐾 Hey there! I'm Sayantan</h1>
@@ -141,12 +142,15 @@
 
 ## 🌐 Let's Connect
 
+## 🌐 Let's Connect
+
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://meaow-stack.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5733?logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sayantan-mukherjee-5a4b46293/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/chainghoul_4"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+  <a href="mailto:sayantanmukherjee000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://sayantanmukherjee1.netlify.app"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?logo=vercel&logoColor=white" /></a>
 </p>
+
 
 ---
 
