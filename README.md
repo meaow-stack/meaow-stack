@@ -104,8 +104,8 @@
         <p>Interactive personal portfolio showcasing skills & works.</p>
         <p><b>Stack:</b> React, Tailwind CSS</p>
         <p>
-          <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
-          <a href="https://github.com/meaow-stack/portfolio">🔗 GitHub Repo</a>
+           <img src="https://img.shields.io/badge/Status-Deployed-green" />
+          <a href="https://github.com/meaow-stack/aesthetic-scroll-hub">🔗 GitHub Repo</a>
         </p>
       </td>
     </tr>
