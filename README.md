@@ -85,11 +85,12 @@
     </tr>
     <tr>
       <td width="33%" align="center">
-        <h3>📝 Dev Blog (Coming Soon)</h3>
-        <p>Write-ups on tech, tutorials, and developer life.</p>
-        <p><b>Stack:</b> Next.js, Tailwind CSS, MDX</p>
+        <h3>📝Bill Gnerator</h3>
+        <p>Generate bills and download the pdfs</p>
+        <p><b>Stack:</b> Next.js, Tailwind CSS,shadcn</p>
         <p>
-          <img src="https://img.shields.io/badge/Status-Coming%20Soon-blue" />
+          <img src="https://img.shields.io/badge/Status-Deployed-green" />
+          <a href="https://billify-generator-8449.vercel.app/">🔗 Live App</a>
         </p>
       </td>
       <td width="33%" align="center">
