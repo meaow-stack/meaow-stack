@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://github.com/meaow-stack/meaow-stack/assets/cat-coding.gif" alt="Meaow Coding Banner" width="600"/>
-  
 </p>
 
 <h1 align="center">🐾 Hey there! I'm Sayantan</h1>
@@ -85,9 +84,9 @@
     </tr>
     <tr>
       <td width="33%" align="center">
-        <h3>📝Bill Gnerator</h3>
-        <p>Generate bills and download the pdfs</p>
-        <p><b>Stack:</b> Next.js, Tailwind CSS,shadcn</p>
+        <h3>📝 Bill Generator</h3>
+        <p>Generate bills and download the PDFs</p>
+        <p><b>Stack:</b> Next.js, Tailwind CSS, shadcn</p>
         <p>
           <img src="https://img.shields.io/badge/Status-Deployed-green" />
           <a href="https://billify-generator-8449.vercel.app/">🔗 Live App</a>
@@ -149,7 +148,6 @@
   <a href="mailto:sayantanmukherjee000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://portfoliosayantan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?logo=vercel&logoColor=white" /></a>
 </p>
-
 
 ---
 
